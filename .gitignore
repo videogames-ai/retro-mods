@@ -137,3 +137,19 @@ retro/VERSION.txt
 Temporary
 *.mkv
 *.search
+
+# additional stuff
+third-party/libzip/Makefile
+third-party/libzip/config.h
+third-party/libzip/examples/Makefile
+third-party/libzip/libzip.pc
+third-party/libzip/man/Makefile
+third-party/libzip/regress/Makefile
+third-party/libzip/src/Makefile
+third-party/libzip/zipconf.h
+regress/
+third-party/gtest/googlemock/Makefile
+third-party/gtest/googlemock/gtest/Makefile
+
+
+
