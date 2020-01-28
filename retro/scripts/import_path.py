@@ -26,6 +26,7 @@ def main():
         nonlocal imported_games
         try:
             data, hash = retro.data.groom_rom(filename, f)
+            print(hash)
         except (IOError, ValueError):
             return
         if hash in known_hashes:
