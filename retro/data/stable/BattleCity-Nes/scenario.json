@@ -6,16 +6,9 @@
     0
   ],
   "done": {
-    "condition": "all",
     "variables": {
-      "left": {
-        "op": "nonzero"
-      },
-      "speed": {
-        "op": "zero"
-      },
-      "time": {
-        "op": "zero"
+      "lifes": {
+        "op": "negative"
       }
     }
   },
