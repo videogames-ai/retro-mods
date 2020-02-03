@@ -1,8 +1,16 @@
 {
   "info": {
+    "kills": {
+      "address": 24,
+      "type": ">d1"
+    },
     "lifes": {
       "address": 56,
       "type": "<d1"
+    },
+    "lives2": {
+      "address": 81,
+      "type": ">d1"
     },
     "score": {
       "address": 21,
