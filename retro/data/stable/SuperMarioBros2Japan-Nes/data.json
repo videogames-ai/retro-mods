@@ -28,6 +28,10 @@
       "address": 2040,
       "type": ">n3"
     },
+    "worldskip": {
+      "address": 1904,
+      "type": ">n1"
+    },
     "xscrollHi": {
       "address": 1818,
       "type": "|u1"
