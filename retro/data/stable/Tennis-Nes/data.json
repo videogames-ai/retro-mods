@@ -1,0 +1,24 @@
+{
+  "info": {
+    "fault": {
+      "address": 122,
+      "type": "<n1"
+    },
+    "score_com": {
+      "address": 89,
+      "type": ">d1"
+    },
+    "score_you": {
+      "address": 88,
+      "type": ">d1"
+    },
+    "total_com": {
+      "address": 84,
+      "type": ">n1"
+    },
+    "total_you": {
+      "address": 81,
+      "type": ">n1"
+    }
+  }
+}
