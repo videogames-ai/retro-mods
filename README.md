@@ -1,3 +1,12 @@
+Fork of OpenAI's retro with additional integrated games:
+*	HangOn-Sms
+*	PunchOut-Nes
+*	SMB2-Nes SuperMarioBros 2 Japan version
+*	Outrun-Sms
+
+
+
+
 **Status:** Maintenance (expect bug fixes and minor updates)
 
 # Gym Retro
